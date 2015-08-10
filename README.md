@@ -36,3 +36,7 @@ You probably don't, but I know certain people (including myself) that do.
 # Does this bitblt?
 
 **No** *god no*. This does not use VB6/GDI's godawful AND->OR/bitbltting/whatever method to prepare this image. Thus, true transparency can be achieved. And it looks pretty nice, and works quickly even with large images.
+
+# License?
+
+GPL. Redistribue however you want, include the class in your project. Just give a little kickback to me (link to this repo, my name somewhere, whatever you want).
